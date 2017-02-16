@@ -1,0 +1,431 @@
+
+
+#theselector {
+padding: 10px;
+line-height: 1.7;
+}
+
+
+
+
+
+h1 {
+    font-size: 27px;
+    line-height: 35px;
+    font-weight: bold;
+    padding-top: 5px;
+    
+}
+
+#person p {
+    line-height: 16px;
+    font-size: 13px;
+    margin-bottom: 7px;
+}
+
+
+#cantsearchitall p {
+	font-size: 12px;
+    width: 355px;
+    white-space: normal;
+    line-height: 14px;
+    text-align: center;
+    margin-bottom: 2px;
+    font-style: italic;
+    margin-top: 12px;
+}
+
+h2 {
+    font-size: 11.5px;
+    color: #ddd;
+    font-weight: bold;
+    line-height: 14px;
+    margin-left: 88px;
+}
+
+#about p, #learn p {
+    font-size: 13px;
+    line-height: 17px;
+    padding: 4px 0;
+}
+
+#about a, #learn a {
+	color: #3a5795;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#about p:first-of-type, #learn p:first-of-type {
+    padding-top: 12px !important;
+}
+
+#mc_embed_signup form {
+	padding: 0 !important;
+	width: 313px !important;
+}
+
+#mc_embed_signup input.email {
+margin: 2px auto 6px !important;
+font-size: 12px;
+
+}
+
+#mc_embed_signup input.button {
+    margin: 0 auto 2px !important;
+    height: 26px !important;
+    font-size: 12px !important;
+    background-color: #888 !important;
+    line-height: 26px !important;
+}
+
+header img {
+float: left;
+height: 75px;
+width: 85px;
+display: block;
+margin-right: 10px;
+max-height: 400px;
+}
+
+header {
+background-color: #3a5795;
+color: white;
+}
+
+header div {
+  width: 375px;
+  height: 75px;
+  overflow: hidden;
+}
+
+
+
+
+select {
+font-size: 15px;
+border: 1px solid #931E05;
+}
+
+input {
+font-size: 15px;
+border: 1px solid #931E05;	
+}
+
+button {
+font-size: 14px;
+padding: 5px 8px;
+margin: 5px 0;
+background-color: white;
+color: #931E05;
+border: 1px solid #931E05;
+cursor: pointer;
+  width: 170px;
+}
+
+button:hover {
+background-color: #931E05;
+color: white;
+}
+
+
+#people .tab {
+float: right;
+width: 196px;
+}
+
+#people select.tab {
+width: 196px;
+float: right;
+}
+
+#people .inputright {
+	width: 88px !important;
+	margin-left: 10px !important;
+}
+
+#people .inputleft {
+	width: 88px !important;
+}
+
+::-webkit-input-placeholder {
+   text-align: center;
+}
+
+:-moz-placeholder { /* Firefox 18- */
+   text-align: center;
+}
+
+::-moz-placeholder {  /* Firefox 19+ */
+   text-align: center;
+}
+
+:-ms-input-placeholder {  
+   text-align: center;
+}
+
+#events .tab {
+float: right;
+width: 276px;
+}
+
+#person .fullwidth {
+width: 350px;
+text-align: center;
+}
+
+#person select.tab {
+width: 196px;
+height: 26px;
+float: right;
+}
+
+
+
+#photos .tab {
+float: right;
+width: 290px;
+}
+
+#posts .tab {
+float: right;
+width: 270px;
+}
+
+#person label {
+    padding-left: 25px;
+    text-indent: -25px;
+    height: inherit;
+    margin-bottom: 6px;
+}
+
+#addperson {
+	display:none;
+}
+
+#addperson a {
+	text-align:center;
+	display:block;
+}
+
+#secondperson {
+	display:none;
+	font-size: 13px;
+}
+
+.showwhenopened {
+	display:none;
+}
+
+.show-if-one-person {
+	display:none;
+}
+
+.show-if-two-people {
+	display:none;
+}
+
+form .second-person-chooser {
+	display: none;
+}
+
+select.looklikealink {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: #3a5795;
+}
+
+select.looklikealink:hover {
+	text-decoration:underline;
+}
+
+.centerinselect {
+	text-align:center;
+}
+
+#person-options b {
+	font-weight: bold !important;
+}
+
+#person-submit {
+	text-align:center;
+	display:none;
+	margin-top: 6px;
+}
+
+form {
+width: 355px;
+white-space: nowrap;
+font-size: 13.5px;
+}
+
+form a {
+font-size: 12px;
+font-weight: bold;
+color: #3a5795;
+text-decoration: none;
+  display: block;
+  line-height: 20px;
+}
+
+form a:hover {
+text-decoration: underline;
+}
+
+form#posts .hide-if-any {
+	display: none;
+}
+
+label, .labelcontainer {
+font-size: 13.5px;
+vertical-align: middle;
+  padding: 4px 0;
+  display: block;
+height: 23px;
+clear: both;
+}
+
+hr {
+clear:both;
+color: white;
+}
+
+.rightalignthing {
+	
+}
+
+.centernoblock {
+text-align:center;
+}
+.centernoblock label {
+/* display: inline; */
+}
+
+.facebooklogintop {
+background-color: white;
+font-size: 12px;
+padding: 8px;
+}
+
+.facebooklogintop p {
+width: 430px;
+}
+
+input[fid], select[fid] {
+  cursor: default !important;
+  background-color: #3A5795;
+  border-style: outset;
+  color: white;
+}
+
+#modify-people ul {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#modify-people ul li {
+    line-height: 40px;
+    font-size: 16px;
+    text-align:center;
+    border-bottom: 1px solid #ccc;
+}
+
+#modify-people ul li.personname:hover {
+	background-color: #F1D1D1;
+}
+
+#modify-people ul li.personname:after {
+    content: "x";
+    float: right;
+    margin: 0 12px 0 6px;
+    font-size: 13px;
+    font-weight: bold;
+    color:black;
+}
+
+#modify-people ul li.personname:hover:after {
+	color: white;
+}
+
+#modify-people ul li#addpeople {
+    background-color: #D3E6D3;
+}
+
+#modify-people ul li#addpeople input {
+	height: 40px;
+    width: 260px;
+    color: black;
+    border: none;
+    text-align: center;
+    background-color: #D3E6D3;
+}
+
+#modify-people ul li#addpeople input:focus {
+	outline: none;
+}
+    
+li#addpeople:before {
+    content: "+";
+    float: right;
+    margin-right: 10px;
+    font-weight: bold;
+    color: black;
+}
+
+#modify-people ul li.inprocess, #modify-people ul li.inprocess input {
+    color: #888;
+    cursor: default;
+    background-color: #3D803D !important;
+}
+    
+#addpeopledescription {
+    margin-top: 7px;
+    font-size: 12px;
+    text-align: center;
+}
+    
+
+.ui-widget {
+font-size: 1em !important;
+padding: 0;
+}
+
+.ui-widget-overlay {
+    background: #222222 url("img/100.png") 50% 50% repeat-x;
+}
+
+.ui-widget-header {
+    border: none;
+    background: #eee;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+
+@media screen and (max-width: 300px) {
+
+h1 {
+font-size: 20px;
+line-height: 24px;
+padding-top: 8px;
+}
+
+h2 {
+font-size: 9px;
+line-height: 12px;
+padding-bottom: 7px;
+width: 200px;
+}
+
+header br {
+display: none;
+}
+
+
+}
