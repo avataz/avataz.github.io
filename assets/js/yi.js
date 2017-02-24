@@ -1,7 +1,7 @@
 var password;
 
 var yi1="aliasak@gmail.com";
-var yi2="aliasak@gmail.com";
+var yi2="mohdfaizal.prudential@gmail.com";
 var yi3="aliasak@gmail.com";
 
 password=prompt('Sila masukkan email anda yang betul',' ');
