@@ -428,6 +428,12 @@ a:focus, a:active {
 .section-gray2 {
   background-color: #ffe5bd;
 }
+.section-gray3 {
+  background-color: #b3e6ff;
+}
+.section-gray4 {
+  background-color: #ffe6f2;
+}
 
 .section-white {
   background-color: #FFFFFF;
